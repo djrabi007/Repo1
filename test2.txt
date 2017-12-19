@@ -1,0 +1,11 @@
+2nd File
+
+----------
+git config --global user.email “rabi007007@gmail.com”
+git config --global user.name “djrabi007”
+
+git commit -m "added for index.html"
+git remote add origin https://github.com/djrabi007/Repo1.git
+git push -u origin master
+git branch Branch_Rabi_19thDec2017
+git checkout Branch_Rabi_19thDec2017
